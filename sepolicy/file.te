@@ -1,0 +1,15 @@
+# batt_health
+type batt_health_data_file, file_type;
+type batt_health_sysfs, sysfs_type, fs_type;
+
+# hw_revs
+type hw_revs_data_file, file_type, data_file_type;
+
+# PDS files
+type pds_file, file_type;
+
+# qdump
+type qdump_data_file, file_type, data_file_type;
+
+# aplogd
+type aplogd_data_file, file_type, data_file_type;

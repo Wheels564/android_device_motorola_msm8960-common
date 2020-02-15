@@ -1,0 +1,2 @@
+type_transition mpdecision system_data_file:file mpctl_data_file;
+allow mpdecision socket_device:sock_file create_file_perms;
